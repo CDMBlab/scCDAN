@@ -14,9 +14,6 @@ accuracy of cell type annotation. The effectiveness of scCDAN is validated on
 simulated, cross-platforms, and cross-species datasets. Experimental results
 demonstrate that scCDAN outperforms comparative methods in both cell
 type annotation and batch correction.
-<p align="center">
-    <img src="..\scCDAN-final\scCDAN-master\scCDAN_overview.jpg" width="800">
-</p>
 
 # Requirements
 ### Enviroment
